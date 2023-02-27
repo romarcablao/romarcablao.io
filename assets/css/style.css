@@ -194,7 +194,7 @@ li {font-size: 13px;font-weight: 400;line-height: 30px;}
 .social-icons li a i.icon-instagram {background-position: -58px 0;}
 .social-icons li a i.icon-linkedin {background-position: -118px 0;}
 .social-icons li a i.icon-tumblr {background-position: -247px 0; width: 32px; }
-.social-icons li a i.icon-youtube {background-position: -310px 0;}
+.social-icons li a i.icon-github {background-position: -363px 0;}
 .social-icons li a i.icon-google-plus {background-position: -359px 0;}
 
 
@@ -1253,7 +1253,7 @@ button.lar {cursor: pointer; background-color: #111; color: #fff; font-size: 14p
     .social-icons li:not(:last-child) {margin-right: 14px;}
     .social-icons li a i.icon-instagram {background-position: -49px 0;}
     .social-icons li a i.icon-google-plus {    background-position: -206px 0;}
-    .social-icons li a i.icon-youtube {background-position: -299px 0;}
+    .social-icons li a i.icon-github {background-position: -299px 0;}
     .social-icons li a i.icon-linkedin {background-position: -98px 0;}
     .social-icons li a i.icon-tumblr {background-position: -255px 0;width: 32px;}
     .social-text .list-inline-item:not(:last-child) {margin-right: 15px;}
