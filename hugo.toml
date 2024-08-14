@@ -28,7 +28,7 @@ metaDataFormat= "yaml"
 [params.main]
   enabled = true
   enableKatex = true
-  metaKeywords = "fast, hugo, theme, minimal, gruvbox"
+  metaKeywords = "fast, hugo, theme, minimal, gruvbox, romarcablao"
   headerTitle = "Romar Cablao"
   name = "romarcablao"
   img = "https://avatars.githubusercontent.com/u/34782557?v=4"
@@ -36,7 +36,6 @@ metaDataFormat= "yaml"
   icon = "https://avatars.githubusercontent.com/u/34782557?v=4"
   quote = ""
   description= "A tech enthusiast with a keen interest in cloud-native technology. He holds multiple cloud certifications and is passionate about exploring the latest advancements in this rapidly evolving industry. As a lifelong learner, he continuously seeks out new methodologies and innovations to keep himself and his team ahead of the curve."
-  licenseUrl = ""
 
  # Social icons
   [[params.social]]
@@ -62,7 +61,6 @@ metaDataFormat= "yaml"
     identifier = "posts"
     name       = "Posts"
     url        = "https://dev.to/romarcablao"
-
 
 [markup]
   defaultMarkdownHandler = "goldmark"
