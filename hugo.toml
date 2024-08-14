@@ -4,7 +4,7 @@
 baseurl = "https://romarcablao.thecloudspark.com/"
 title = "Romar Cablao"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+paginate = "10" 
 googleAnalytics = "G-FJ6T8SEKZV" 
 
 # Default Theme
