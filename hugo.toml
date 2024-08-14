@@ -1,14 +1,11 @@
-# Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
-# and drop a star while you're at it. ;)
+#-------------------------------------------------------------------------------
+# SETTINGS
+#-------------------------------------------------------------------------------
 baseurl = "https://romarcablao.thecloudspark.com/"
 title = "Romar Cablao"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-#disqusShortname = "" # Enable comments by entering your Disqus shortname
-#googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-#-------------------------------------------------------------------------------
-# DEFAULT SETTINGS
-#-------------------------------------------------------------------------------
+googleAnalytics = "G-FJ6T8SEKZV" 
 
 # Default Theme
 theme= "gruvhugo"
